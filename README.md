@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @frankkidev
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning php language
+- 💞️ I’m looking for young coders. Dm me!
+- 📫 Contact me here: https://t.me/exefr
